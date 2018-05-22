@@ -29,11 +29,6 @@
 
     }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> feature-objects
     /**
      * method that returns browser details
      * @return array
